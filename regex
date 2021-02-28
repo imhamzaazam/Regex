@@ -1,0 +1,7 @@
+\D matches any character that is not a digit.
+\d matches any digit [0-9].
+\s matches any whitespace character [ \r\n\t\f ].
+\S matches any non-white space character.
+\w The expression  will match any word character.Word characters include alphanumeric characters (-, - and -) and underscores (_).
+^ symbol matches the position at the start of a string.
+$ symbol matches the position at the end of a string.
